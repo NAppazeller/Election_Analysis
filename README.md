@@ -26,6 +26,7 @@ Using a bulleted list, address the following election outcomes. Use images or ex
  * *The county with the largest number of votes was Denver at 82.5%
 
 * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+![](https://github.com/NAppazeller/Election_Analysis/blob/main/Resources/County%20Vote%20Image.jpg)
 
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
   * *Diane DeGette was the winner of the election with 73.8% of the vote and 272,892 votes.*
