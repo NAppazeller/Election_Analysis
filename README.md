@@ -2,7 +2,7 @@
 Assist with election audit and analysis.
 
 ## Overview
-The purpose of this election audit analysis is produce a script that will be able to deliver the following information when the script is run:
+The Colorado Board of Elections has requested an audit of the results related to a U.S. Congressional election. The audit will include writing a script that can generate a vote count report to certify the election results. The report will include:
 
 - Total number of votes cast
 - A complete list of candidates who received votes
@@ -23,6 +23,7 @@ Using a bulleted list, address the following election outcomes. Use images or ex
 * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
 * Which county had the largest number of votes?
+ * *The county with the largest number of votes was Denver at 82.5%
 
 * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
