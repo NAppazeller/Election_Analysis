@@ -36,8 +36,11 @@ The Colorado Board of Elections has requested an audit of the results related to
 
 ## Summary 
 
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. 
+The initial audit analyzed data at the congressional precinct level. Through additional script modification the final audit also included an analysis of voting by county. 
 
 ### Future Script Modification
-* example 1
-* example 2
+
+Future script modifictions could include the following:
+
+  * *Candidate vote counts by county*
+  * *Candidate winner by county* 
