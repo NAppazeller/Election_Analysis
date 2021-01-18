@@ -6,7 +6,7 @@ import csv
 import os
 
 # Add a variable to load a file from a path.
-file_to_load = os.path.join("..", "Resources", "election_results.csv")
+file_to_load = os.path.join("Resources", "election_results.csv")
 # Add a variable to save the file to a path.
 file_to_save = os.path.join("analysis", "election_analysis.txt")
 
@@ -100,7 +100,9 @@ with open(file_to_save, "w") as txt_file:
         county_percent = int(county_vote)/int(total_votes) * 100
 
          # 6d: Print the county results to the terminal.
-        county_results = (f"{county}: {county_percent:.1f%} ({county_vote:,})\n")
+        county_results = (
+            f"{county}: {county_percent:.1f}% ({county_vote:,})\n"
+        )
          # 6e: Save the county votes to a text file.
         print(county_results, end="")
         txt_file.write(county_results)
@@ -117,7 +119,7 @@ with open(file_to_save, "w") as txt_file:
 
     # 8: Save the county with the largest turnout to a text file.
     print(largest_county_turnout)
-    txt.file.write(largest_county_turnout)
+    txt_file.write(largest_county_turnout)
 
     # Save the final candidate vote count to the text file.
     for candidate_name in candidate_votes:
