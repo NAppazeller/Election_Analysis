@@ -24,7 +24,7 @@ The Colorado Board of Elections has requested an audit of the results related to
 ![](https://github.com/NAppazeller/Election_Analysis/blob/main/Resources/County%20Vote%20Image.jpg)
 
 * Which county had the largest number of votes?
-  * *Denver county had the largest number of votes at 306,055*
+  * *Denver county had the largest voter turnout with a total of 306,055 votes*
 
 * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
@@ -36,8 +36,11 @@ The Colorado Board of Elections has requested an audit of the results related to
 
 ## Summary 
 
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. 
+The initial audit analyzed data at the congressional precinct level. Through additional script modification the final audit also included an analysis of voting by county. 
 
 ### Future Script Modification
-* example 1
-* example 2
+
+Future script modifications could include the following:
+
+  * *Candidate vote counts by county*
+  * *Candidate winner by county* 
