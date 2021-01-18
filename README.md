@@ -31,6 +31,7 @@ The Colorado Board of Elections has requested an audit of the results related to
 ![](https://github.com/NAppazeller/Election_Analysis/blob/main/Resources/Candidate%20Vote%20Image.jpg)
 
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+
   * *Diana DeGette was the winner of the election with 272,892 votes or 73.8% of the total vote count.*
 
 ## Summary 
