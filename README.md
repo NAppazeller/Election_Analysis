@@ -22,7 +22,7 @@ Using a bulleted list, address the following election outcomes. Use images or ex
 
 * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
-![](https://github.com/NAppazeller/Election_Analysis/blob/main/Resources/County%20Vote%20Image.jpg)
+
 
 * Which county had the largest number of votes?
   * *Denver county had the largest number of votes at 306,055*
