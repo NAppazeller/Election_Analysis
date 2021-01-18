@@ -16,7 +16,6 @@ The Colorado Board of Elections has requested an audit of the results related to
 
 ## Results
 
-Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 * How many votes were cast in this congressional election?
   * *There were 369,711 total votes cast in the congressional election.*
 
